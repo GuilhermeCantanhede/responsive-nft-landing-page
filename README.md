@@ -1,1 +1,1 @@
-# responsive-nft-landing-page
+# Responsive NFT Landing Page
